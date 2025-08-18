@@ -9,7 +9,7 @@ voter_name = input("Enter your name before you vote: ")
 registered_voters.add(voter_name)
 
 
-print(registered_voters)
+
 #check if voters tries to register twice, display warning
 name=voter_name
 if name in registered_voters:
@@ -21,6 +21,4 @@ else:
 # After registration, display the total number of unique voters.    
 print(registered_voters)
 print(len(registered_voters)) 
-
-
 
