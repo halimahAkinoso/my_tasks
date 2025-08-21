@@ -9,7 +9,7 @@
 # print(f"Candidate: {name}\nAge: {age}\nScore: {score}\nEligible: {eligibility}")
 
 
-# this code check candidate eligibility based on specify reequirments
+# this code check candidate eligibility based on specify requirements
 #eligibility requirement include :
 #CITIZENSHIP : MUST BE A CITIZEN OF nIGERIA
 # Enrollment : must be reistered , full term undergraduate in Nigeria uni

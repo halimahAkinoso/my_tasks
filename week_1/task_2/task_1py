@@ -31,13 +31,13 @@ print("python" in text)
 
 
 #7 reverse a string without using slicing
-text = "omolola"
+word = "omolola"
 # reversed_text = text[::-1]
 # print(reversed_text)
 letter1 = (word[-1])
 letter2 = (word[-2])
 letter3 = (word[-3])
-letter
+
 
 # 8 remove extra space
 text = "  satisfactory    "

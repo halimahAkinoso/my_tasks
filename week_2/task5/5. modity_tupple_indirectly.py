@@ -8,7 +8,7 @@ shopping_list = (item1, item2, item3)
 items_list= list(shopping_list)
 
 # then ask for two more items to add.
-items_list.append(input(("Enter your fourt item: ")))
+items_list.append(input(("Enter your fourth item: ")))
 items_list.append(input(("Enter your fifth item: "))
 )
 # List back to Tuple

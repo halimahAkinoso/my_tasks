@@ -1,6 +1,6 @@
 #6 attendance tracker that stores days of the week
 days_of_week = ("monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday")
-months_of_year = ("january", "february", "march", "april", "june", "july", "august", "september", "octomber", "november", "december")
+months_of_year = ("january", "february", "march", "april", "june", "july", "august", "september", "october", "november", "december")
 
 students_name = input("Enter your name: ")
 gender = input("Enter your gender: ")
