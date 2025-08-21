@@ -1,7 +1,7 @@
 # Simulated USSD Menu Interaction for mobile service
 
 # 1. Welcome Message
-print("Welcome to Nageria USSD Banking!\nN6.98 will be debited from your airtime balance for banking services on this channel.")
+print("Welcome to Nigeria USSD Banking!\nN6.98 will be debited from your airtime balance for banking services on this channel.")
 
 # 2. Ask user to dial a USSD code
 ussd_code = input("Dial a USSD code (e.g., *123#): ")
