@@ -19,3 +19,4 @@ print(" Students Record: ")
 print(f"Student Name: {name}\nAge: {age}\nScores: {score}\nPassed: {student['passed']}\nTeenager: {student['teenager'] }")
 
 
+ 
