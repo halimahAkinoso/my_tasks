@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Python Basics",
+        "author": "John Doe",
+        "available": false
+    },
+    {
+        "title": "Advanced Python",
+        "author": "Jane Smith",
+        "available": true
+    },
+    {
+        "title": "Game Changer",
+        "author": "Taye Babalola",
+        "available": true
+    }
+]
